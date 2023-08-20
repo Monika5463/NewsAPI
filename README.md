@@ -72,7 +72,7 @@ We welcome contributions! If you'd like to contribute to this project, please fo
 
 ## License
 
-This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License - see the [Apache](LICENSE) file for details.
 
 ---
 
@@ -81,7 +81,7 @@ This project is licensed under the Apache License - see the [LICENSE](LICENSE) f
 If you have any questions or feedback, feel free to reach out to us:
 
 - Email: monikamahla5463@gmail.com
-- GitHub: [YourGitHubUsername](https://github.com/monika5463)
+- GitHub: [monika5463](https://github.com/monika5463)
 
 ---
 

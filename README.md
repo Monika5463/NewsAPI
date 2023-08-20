@@ -63,7 +63,7 @@ Before you begin, ensure you have the following requirements installed:
 
 ## Screenshots
 
-![NewsApp Screenshot 1]([https://drive.google.com/file/d/1TTU2tiT_wCEBAeKpMqF_9UNbullZgjDt/view?usp=sharing])
+![NewsApp Screenshot 1](https://drive.google.com/file/d/1TTU2tiT_wCEBAeKpMqF_9UNbullZgjDt/view?usp=sharing)
 *NewsApp in action, displaying a news article.*
 
 ---
@@ -88,7 +88,7 @@ This project is licensed under the Apache License - see the [LICENSE](LICENSE) f
 
 If you have any questions or feedback, feel free to reach out to us:
 
-- Email: your.email@example.com
+- Email: monikamahla5463@gmail.com
 - GitHub: [YourGitHubUsername](https://github.com/monika5463)
 
 ---

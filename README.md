@@ -63,7 +63,7 @@ Before you begin, ensure you have the following requirements installed:
 
 ## Screenshots
 
-![NewsApp Screenshot 1]([https://example.com/screenshot1.png](https://drive.google.com/file/d/1TTU2tiT_wCEBAeKpMqF_9UNbullZgjDt/view?usp=sharing))
+![NewsApp Screenshot 1]([https://drive.google.com/file/d/1TTU2tiT_wCEBAeKpMqF_9UNbullZgjDt/view?usp=sharing])
 *NewsApp in action, displaying a news article.*
 
 ---
